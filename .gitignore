@@ -1,0 +1,17 @@
+# SO / IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+# Residuos
+*.log
+*.bak
+*.orig
+*.zip
+node_modules/
+vendor/
+.env
+.env.*
+_scratch/
